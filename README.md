@@ -9,6 +9,6 @@ After the code is run:
 
 <img width="188" alt="After_the_code_is_run" src="https://user-images.githubusercontent.com/94804863/164609391-96525440-9257-4bdc-9800-2314282da22f.PNG">
 
-Before and after the code is run. Loopbacks are created as: 
+Before and after the code is run. Loopback interfaces are created as below: 
 
 ![image](https://user-images.githubusercontent.com/94804863/164609573-f188add1-a082-4e94-b523-7c46f8b5930f.png)
